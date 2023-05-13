@@ -1,5 +1,7 @@
 # <p align="center" style="margin-top: 0px;"> TASK TWO ![JP morgan](https://github.com/ellaclauz/JP_MORGAN_EXCEL_SKILL/assets/100838547/e6a7faef-81b4-4e92-9e1d-e541b74acb3f)
 
+## <p align="center"> Conditional Formatting
+
 Here the task is to use the conditional formatting tools to do the following explorations of the data:
 
   - Highlight any cells with formula errors in purple with white text.
